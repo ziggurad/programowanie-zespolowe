@@ -1,0 +1,3 @@
+using pol.edu.lektury.streszczenia;
+
+string str = getTadeuszPanStr();
