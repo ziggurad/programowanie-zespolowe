@@ -7,3 +7,8 @@ test1
 
 
 tets2
+
+
+linijka1
+
+linijka2
